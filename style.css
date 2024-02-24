@@ -38,4 +38,7 @@ span{
     h1 {
         font-size: 1.4rem; 
     }
+    span{
+        font-size:21px;
+    }
 }
