@@ -1,6 +1,6 @@
 # Typing Animation 1
 
-This project is a simple tool that creates a typing animation effect displaying specific texts sequentially, such as "I am a web developer", "I am a web designer", and "I am a project manager".
+This project is a simple tool that creates a typing animation effect displaying specific texts sequentially, such as "I'm a Web Developer", "I'm a Web Designer", and "I'm a Project Manager".
 
 ## Demo
 
